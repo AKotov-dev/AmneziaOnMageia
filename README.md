@@ -24,7 +24,7 @@ Connection example [see here...](https://github.com/ImMALWARE/bash-warp-generato
 + `AmneziaVPN` actively works with `iptables`. To avoid possible problems, including auto-connection after reboot, you can remove the `shorewall` and `msec` packages: `urpme --auto shorewall-core msec; reboot`, оr disable the `firewall` in the `Mageia control center` in the section `Security` - `Configure personal firewall` (ipv4/ipv6). This decision is up to the user.
 + If the connection still does not occur, try disabling `KillSwitch` in the connection settings.
 
-`AmneziaVPN` has been tested in [MgaRemix-Proserpina](https://github.com/AKotov-dev/MgaRemix-Proserpina) (NetworkManager/nm-applet) & Mageia-9-MATE (network/net_applet). The result is positive.
+`AmneziaVPN` has been tested in [MgaRemix-Proserpina](https://github.com/AKotov-dev/MgaRemix-Proserpina) (NetworkManager/nm-applet) and Mageia-9-MATE (network/net_applet). The result is positive.
 
 **Useful links:** [Amnezia](https://amnezia.org), [AmneziaVPN](https://github.com/amnezia-vpn), [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
