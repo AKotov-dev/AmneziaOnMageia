@@ -22,4 +22,4 @@ Connection example [see here...](https://github.com/ImMALWARE/bash-warp-generato
 
 **Useful links:** [Amnezia](https://amnezia.org), [AmneziaVPN](https://github.com/amnezia-vpn), [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
-I would like to express my deepest gratitude to the creators of the `AmneziaVPN` project.
+Many thanks to the creators of the `AmneziaVPN` project.
