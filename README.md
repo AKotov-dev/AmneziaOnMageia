@@ -1,5 +1,5 @@
 ## AmneziaVPN (amnezia-client) on Mageia Linux
-**Requires:** lib64xcb-util-cursor0 lib64xcb-xinerama0
+**Requires:** lib64xcb-util-cursor0 lib64xcb-xinerama0 lib64opengl0
 
 Directories:
 ```
