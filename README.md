@@ -18,3 +18,8 @@ Installation from `root`, use from `user`...
 
 Connection example [see here...](https://github.com/ImMALWARE/bash-warp-generator)
 
+![](https://github.com/AKotov-dev/AmneziaOnMageia/blob/main/Snapshot1.png) ![](https://github.com/AKotov-dev/AmneziaOnMageia/blob/main/Snapshot2.png)
+
+**Useful links:** [Amnezia](https://amnezia.org), [AmneziaVPN](https://github.com/amnezia-vpn), [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
+I would like to express my deepest gratitude to the creators of the `AmneziaVPN` project.
